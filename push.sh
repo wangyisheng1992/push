@@ -3,8 +3,8 @@ git init
 
 # git config --global http.proxy "http://127.0.0.1:7890"
 # git config --global https.proxy "http://127.0.0.1:7890"
-# git config --global user.name "wangyisheng1992"
-# git config --global user.email 983231802@qq.com
+git config --global user.name "wangyisheng1992"
+git config --global user.email 983231802@qq.com
 # ssh-keygen -t rsa -C "983231802@qq.com"
 
 # 添加远程 GitHub 仓库
